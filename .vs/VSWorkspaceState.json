@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\actions",
+    "\\src\\components",
+    "\\src\\components\\football-data",
+    "\\src\\reducers",
+    "\\src\\service"
+  ],
+  "SelectedNode": "\\src\\components\\football-data\\index.js",
+  "PreviewInSolutionExplorer": false
+}
